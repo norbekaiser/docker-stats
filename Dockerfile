@@ -7,4 +7,5 @@ RUN DEBIAN_FRONTEND=noninteractiv apt-get install -y --no-install-recommends gnu
 RUN DEBIAN_FRONTEND=noninteractiv apt-get install -y --no-install-recommends jq
 RUN DEBIAN_FRONTEND=noninteractiv apt-get install -y --no-install-recommends bc
 RUN DEBIAN_FRONTEND=noninteractiv apt-get install -y --no-install-recommends markdown
+RUN DEBIAN_FRONTEND=noninteractiv apt-get install -y --no-install-recommends imagemagick
 RUN DEBIAN_FRONTEND=noninteractiv apt-get clean

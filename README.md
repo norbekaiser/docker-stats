@@ -1,7 +1,7 @@
 # Docker Image
 
 ## Description
-Debian Slim Image with Gnuplot (no X server) , jq and csvtool
+Debian Slim Image with Gnuplot (no X server) , jq, csvtool, bq, markdown support
 
 ## Repos
 * [Gitlab](https://gitlab.norbert-ruehl.de/nruehl/docker-stats.git)
